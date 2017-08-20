@@ -1,0 +1,1 @@
+qmake USE_UPNP=0 USE_QRCODE=1 ntcoin-qt.pro
